@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\basithesapmakinesi\basithesapmakinesi\bin\Debug\basithesapmakinesi.exe.config
+C:\Users\User\source\repos\basithesapmakinesi\basithesapmakinesi\bin\Debug\basithesapmakinesi.exe
+C:\Users\User\source\repos\basithesapmakinesi\basithesapmakinesi\bin\Debug\basithesapmakinesi.pdb
+C:\Users\User\source\repos\basithesapmakinesi\basithesapmakinesi\obj\Debug\basithesapmakinesi.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\basithesapmakinesi\basithesapmakinesi\obj\Debug\basithesapmakinesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\basithesapmakinesi\basithesapmakinesi\obj\Debug\basithesapmakinesi.Form1.resources
+C:\Users\User\source\repos\basithesapmakinesi\basithesapmakinesi\obj\Debug\basithesapmakinesi.Properties.Resources.resources
+C:\Users\User\source\repos\basithesapmakinesi\basithesapmakinesi\obj\Debug\basithesapmakinesi.csproj.GenerateResource.cache
+C:\Users\User\source\repos\basithesapmakinesi\basithesapmakinesi\obj\Debug\basithesapmakinesi.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\basithesapmakinesi\basithesapmakinesi\obj\Debug\basithesapmakinesi.exe
+C:\Users\User\source\repos\basithesapmakinesi\basithesapmakinesi\obj\Debug\basithesapmakinesi.pdb
